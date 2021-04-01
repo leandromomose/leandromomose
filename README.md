@@ -22,8 +22,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/heroku/heroku-original-wordmark.svg" alt="heroku" width="30" />  
   <img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="30" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/materialui/materialui-original.svg" alt="material-ui" width="30" />
-  <img src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" alt="figma" width="30" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/trello/trello-plain.svg" alt="trello" width="50" />
+  <img src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" alt="figma" width="20" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/trello/trello-plain.svg" alt="trello" width="30" />
   <img src="https://pics.freeicons.io/uploads/icons/png/18579954981556105328-512.png" alt="notion" width="30" />
   <img src="https://cdn.worldvectorlogo.com/logos/slack-new-logo.svg" alt="slack" width="30" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/visualstudio/visualstudio-plain.svg" alt="vscode" width="30" />
